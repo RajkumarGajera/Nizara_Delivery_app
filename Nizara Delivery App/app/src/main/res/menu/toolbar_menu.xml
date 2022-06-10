@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/toolbar_filter"
+        android:icon="@drawable/ic_filter"
+        android:title="@string/filter"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/toolbar_notification"
+        android:icon="@drawable/ic_action_notification"
+        app:showAsAction="always"
+        android:visible="true"
+        android:title="@string/notifications" />
+
+    <item
+        android:id="@+id/toolbar_about_us"
+        app:showAsAction="withText"
+        android:visible="true"
+        android:title="About Us"
+        android:tooltipText="About us"/>
+
+    <item
+        android:id="@+id/toolbar_Tearms_And_Condiction"
+        app:showAsAction="withText"
+        android:visible="true"
+        android:title="Tearms And Condiction"
+        android:tooltipText="Tearms And Condiction"/>
+
+    <item
+        android:id="@+id/toolbar_Policy"
+        app:showAsAction="withText"
+        android:visible="true"
+        android:title="Policy"
+        android:tooltipText="Policy"/>
+
+    <item
+        android:id="@+id/toolbar_Payment_System"
+        app:showAsAction="withText"
+        android:visible="true"
+        android:title="Payment System"
+        android:tooltipText="Payment System"/>
+
+
+</menu>

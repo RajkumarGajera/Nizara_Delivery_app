@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324450032820",
+    "project_id": "nizara-delivery-app",
+    "storage_bucket": "nizara-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324450032820:android:132c5151d4c30ca5bb4be1",
+        "android_client_info": {
+          "package_name": "wrteam.multivendor.dboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324450032820-c22r25v44s70l91ikdrhks4i4g973g2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYa2OBllC7mmzVqM77rll1nAwyhydArs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324450032820-c22r25v44s70l91ikdrhks4i4g973g2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
